@@ -1,4 +1,4 @@
-## <div align=center>Olá! Eu sou o Markus Danyllo</div>
+## <div align=center>Olá! Me chamo Markus Danyllo</div>
 
 <div align=center>
  <img src= "https://github-readme-stats.vercel.app/api?username=mdanyllo&show_icons=true&theme=transparent"/>
