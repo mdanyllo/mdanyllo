@@ -21,8 +21,6 @@
  <img align="center" alt="Markus-Python" height="80" width="80" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
 </div>
 
-###
-
 <br/>
 
 <div align=center>
@@ -31,10 +29,9 @@
  <img align=center src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mdanyllo&layout=compact&theme=transparent"/>
 </div>
 
-###
+<br/>
 
 #### <p align=center>Contact me</p>
-<br />
 <div align=center> 
   <a href="https://instagram.com/md4nyllo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:markusdanyllodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
